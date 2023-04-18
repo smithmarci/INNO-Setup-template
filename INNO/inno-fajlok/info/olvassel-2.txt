@@ -1,0 +1,24 @@
+﻿JÁTÉK NEVE - magyarítás - v0.00.000
+
+A magyarítás telepítése (remélhetõleg) sikeresen megtörtént!
+
+---
+
+ELTÁVOLÍTÁS
+
+A magyarítás eltávolítható és az eredeti, angol nyelvû változat visszaállítható az eltávolító telepítõvel ('uninstaller'-rel), amely megtalálható a <Start menü / Programok / KészítőKiadóNeve> mappában vagy a játék könyvtárában ('unins001.exe' néven). Az eltávolítás és visszaállítás nem igényel semmilyen további, felhasználói beavatkozást!
+
+---
+
+JÓ TUDNI!
+
+A játékszabály az eredeti, angol nyelvû változat alapján készült.
+
+A magyarítás legaktuálisabb verziója mindig innét tölthetô le:
+
+https://magyaritasok.hu
+
+
+JÓ JÁTÉKOT KÍVÁNOK!
+
+A Készítõ(k)
